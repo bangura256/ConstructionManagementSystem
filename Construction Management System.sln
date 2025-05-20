@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construction Management System", "Construction Management System\Construction Management System.csproj", "{9C319F7A-28B8-49F6-B800-96A92CF8EF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C319F7A-28B8-49F6-B800-96A92CF8EF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C319F7A-28B8-49F6-B800-96A92CF8EF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C319F7A-28B8-49F6-B800-96A92CF8EF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C319F7A-28B8-49F6-B800-96A92CF8EF18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D98ADD54-2B85-4AC7-8C07-2D9CB562DA7D}
+	EndGlobalSection
+EndGlobal
